@@ -1,7 +1,7 @@
 ---
 title: The Best LED Bars | Phillips Hue Play Bar Alternative
 layout: video
-post-image: "https://i9.ytimg.com/vi_webp/bN0TUzaZDiQ/maxresdefault.webp?v=60587315&sqp=COD_k6EG&rs=AOn4CLAGLnqZu9P_9PD_qu6r66THo3C2_A"
+post-image: "/assets/images/govee.jpg"
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:

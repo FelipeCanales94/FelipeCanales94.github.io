@@ -1,7 +1,7 @@
 ---
 title: Start Streaming with THIS | Best Cheap Capture Card
 layout: video
-post-image: "https://i9.ytimg.com/vi/ocftU2teqD4/maxresdefault.jpg?v=606e4170&sqp=COD_k6EG&rs=AOn4CLBQJ4gZki3gVdGMMHk6JZe6VX7ntQ"
+post-image: "/assets/images/cap_card.jpeg"
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
