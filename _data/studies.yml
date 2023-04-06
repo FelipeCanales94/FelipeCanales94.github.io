@@ -1,0 +1,57 @@
+- name: Aritifical Intelligence Fundamentals
+  link:
+  image: ./assets/images/ai.jpeg
+  description: "Terms, Concepts, Definitions, Use Cases \n"
+- name: Math
+  image: ./assets/images/math.jpeg
+  link:
+  description: Linear Algebra, Statistics, Differential Equations, Calculus
+- name: Git Tutorial
+  link: /git-guide
+  image: ./assets/images/git.jpeg
+  description: One of the most important things in Software Development - source control!
+- name: Regular Expressions
+  link: /regex
+  image: ./assets/images/regex.jpeg
+  description: "Cheat Sheet for RegEx \n"
+- name: Python Tutorial
+  link:
+  image: ./assets/images/python.jpeg
+  description: Basics to Advanced Python 3
+- name: Numpy Tutorial
+  link:
+  image: ./assets/images/numpy.png
+  description: Basics to Advanced Numpy
+- name: Pandas Tutorial
+  link:
+  image: ./assets/images/pandas.png
+  description: Basics to Advanced Pandas
+- name: TensorFlow Tutorial
+  link:
+  image: ./assets/images/tensorflow.jpeg
+  description: Basics to Advanced TensorFlow
+- name: Matplotlib Tutorial
+  link:
+  image: ./assets/images/matplotlib.png
+  description: Basics to Advanced Matplotlib
+- name: Pytorch Tutorial
+  link:
+  image: ./assets/images/pytorch.jpeg
+  description: Basics to Advanced Pytorch
+- name: Algorithms
+  link:
+  image: ./assets/images/algos.jpeg
+  description: Common Algorithms. Implemented in Python
+- name: Data Structures
+  link:
+  image: ./assets/images/ds.png
+  description: Data Structures and Time Complexity
+- name: Interview Preperation and Resources
+  link: 
+  image: ./assets/images/interview.png
+  description: All the prep you'll ever need
+
+
+
+
+  
