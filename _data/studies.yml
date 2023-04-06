@@ -1,3 +1,11 @@
+- name: Regular Expressions
+  link: /regex
+  image: ./assets/images/regex.jpeg
+  description: "Cheat Sheet for RegEx \n"
+- name: Git Tutorial
+  link: /git-guide
+  image: ./assets/images/git.jpeg
+  description: One of the most important things in Software Development - source control!
 - name: Aritifical Intelligence Fundamentals
   link:
   image: ./assets/images/ai.jpeg
@@ -6,14 +14,6 @@
   image: ./assets/images/math.jpeg
   link:
   description: Linear Algebra, Statistics, Differential Equations, Calculus
-- name: Git Tutorial
-  link: /git-guide
-  image: ./assets/images/git.jpeg
-  description: One of the most important things in Software Development - source control!
-- name: Regular Expressions
-  link: /regex
-  image: ./assets/images/regex.jpeg
-  description: "Cheat Sheet for RegEx \n"
 - name: Python Tutorial
   link:
   image: ./assets/images/python.jpeg
